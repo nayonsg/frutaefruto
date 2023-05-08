@@ -9,6 +9,8 @@ Esse projeto foi desenvolvido durante as aulas de arquitetura CSS do Alura ONE -
 
 Este projeto consiste em uma página web fictícia de uma pequena empresa chamada "Fruta e Fruto", que ajuda pessoas a reaproveitar alimentos. A página é estática com estilizações CSS.
 
+Link para a página: https://nayonsg.github.io/frutaefruto/
+
 ## Stack utilizada
 
 **Front-end:** HTML, CSS.
